@@ -1,4 +1,4 @@
-# Target Provider is AWS at region ap-southeast-1 (Singapore) Test
+# Target Provider is AWS at region ap-southeast-1 (Singapore)
 provider "aws" {
   region  = "ap-southeast-1"
 }
